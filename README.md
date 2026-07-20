@@ -8,8 +8,9 @@
 
 # 🧠 MUSE: A Memory-Utilizing and Self-Evolving Agent
 
-> **Learning on the Job: An Experience-Driven, Self-Evolving Agent for Long-Horizon Tasks**  
-> 📄 [Paper on arXiv (2510.08002)](https://arxiv.org/abs/2510.08002)
+
+> **Towards Self-Evolving Agents: Enabling Autonomy through Interactive Experience Refinement**  
+> 📄 [ACL 2026 Findings](https://aclanthology.org/2026.findings-acl.1522.pdf)
 
 ---
 
